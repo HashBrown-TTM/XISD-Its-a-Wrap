@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">itsawrap_manage</string>
+    <string name="it_s_a_wrap">It\'s a Wrap</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="employee_login">Employee Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account? \n Sign up here</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="cellphone_number">Cellphone Number:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="employee_create_account">Create Employee Account</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_your_cellphone_number">Enter your cellphone number</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="already_have_an_account_nlogin_here">Already have an account?\nLogin here</string>
+    <string name="home">Home</string>
+    <string name="assigned_orders">Assigned Orders</string>
+    <string name="orders">Orders</string>
+    <string name="employee_list">Employee List</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="directions">Directions</string>
+    <string name="order_no">Order No:</string>
+    <string name="r">R</string>
+    <string name="house_number_street_name_ncity_province_area_code_nsouth_africa">House number, street name \nCity, Province, Area Code, \nSouth Africa</string>
+    <string name="order_date_and_time">Order Date and Time</string>
+    <string name="items">ITEMS</string>
+    <string name="item_name">Item name</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="driver_s_tip">Driver\'s Tip</string>
+    <string name="total">TOTAL</string>
+    <string name="view_employees">View Employees</string>
+    <string name="add_new_employee">Add New Employee</string>
+    <string name="managers">Managers</string>
+    <string name="employees">Employees</string>
+    <string name="drivers">Drivers</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_type">Employee Type:</string>
+    <string name="select_employee_type">Select Employee Type</string>
+    <string-array name="employee_type">
+        <item>Manager</item>
+        <item>Employee</item>
+        <item>Driver</item>
+    </string-array>
+    <string name="complete">Complete</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="edit_details">Edit Details</string>
+</resources>
