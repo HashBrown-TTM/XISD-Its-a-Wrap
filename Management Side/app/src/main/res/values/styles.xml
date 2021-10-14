@@ -1,7 +1,0 @@
-<resources>
-    <style name="Widget.mainTheme.MyView" parent="">
-        <item name="android:background">@color/gray_400</item>
-        <item name="exampleColor">@color/light_blue_400</item>
-        <item name="fontFamily">@font/pt_sans_regular</item>
-    </style>
-</resources>
